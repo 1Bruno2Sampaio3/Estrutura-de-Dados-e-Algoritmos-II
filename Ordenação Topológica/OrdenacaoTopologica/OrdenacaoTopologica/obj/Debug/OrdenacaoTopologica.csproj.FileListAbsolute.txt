@@ -1,0 +1,9 @@
+c:\users\bruno\documents\visual studio 2017\Projects\OrdenacaoTopologica\OrdenacaoTopologica\bin\Debug\OrdenacaoTopologica.exe.config
+c:\users\bruno\documents\visual studio 2017\Projects\OrdenacaoTopologica\OrdenacaoTopologica\bin\Debug\OrdenacaoTopologica.exe
+c:\users\bruno\documents\visual studio 2017\Projects\OrdenacaoTopologica\OrdenacaoTopologica\bin\Debug\OrdenacaoTopologica.pdb
+c:\users\bruno\documents\visual studio 2017\Projects\OrdenacaoTopologica\OrdenacaoTopologica\obj\Debug\OrdenacaoTopologica.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2017\Projects\OrdenacaoTopologica\OrdenacaoTopologica\obj\Debug\OrdenacaoTopologica.exe
+c:\users\bruno\documents\visual studio 2017\Projects\OrdenacaoTopologica\OrdenacaoTopologica\obj\Debug\OrdenacaoTopologica.pdb
+C:\Users\bruno\Downloads\Ordenação Topológica-20180114T155224Z-001\Ordenação Topológica\OrdenacaoTopologica_FuncionandoFull2\OrdenacaoTopologica\OrdenacaoTopologica\bin\Debug\OrdenacaoTopologica.exe.config
+C:\Users\bruno\Downloads\Ordenação Topológica-20180114T155224Z-001\Ordenação Topológica\OrdenacaoTopologica_FuncionandoFull2\OrdenacaoTopologica\OrdenacaoTopologica\obj\Debug\OrdenacaoTopologica.exe
+C:\Users\bruno\Downloads\Ordenação Topológica-20180114T155224Z-001\Ordenação Topológica\OrdenacaoTopologica_FuncionandoFull2\OrdenacaoTopologica\OrdenacaoTopologica\obj\Debug\OrdenacaoTopologica.pdb
